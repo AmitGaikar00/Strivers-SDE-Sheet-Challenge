@@ -9,17 +9,23 @@ You must solve this problem without using the library's sort function.
 
 
 Example 1:
-
+<br/>
 Input: nums = [2,0,2,1,1,0]
+<br/>
 Output: [0,0,1,1,2,2]
-Example 2:
+<br/>
 
+Example 2:
+<br/>
 Input: nums = [2,0,1]
+<br/>
 Output: [0,1,2]
- 
+ <br/>
 
 Constraints:
-
+<br/>
 n == nums.length
+<br/>
 1 <= n <= 300
+<br/>
 nums[i] is either 0, 1, or 2.

@@ -15,20 +15,28 @@ The replacement must be in place and use only constant extra memory.
  
 
 Example 1:
-
+<br/>
 Input: nums = [1,2,3]
+<br/>
 Output: [1,3,2]
+<br/>
+
 Example 2:
-
+<br/>
 Input: nums = [3,2,1]
+<br/>
 Output: [1,2,3]
-Example 3:
+<br/>
 
+Example 3:
+<br/>
 Input: nums = [1,1,5]
+<br/>
 Output: [1,5,1]
- 
+<br/> 
 
 Constraints:
-
+<br/>
 1 <= nums.length <= 100
+<br/>
 0 <= nums[i] <= 100
