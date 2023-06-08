@@ -10,4 +10,7 @@ Day : 1
  * [Rotate matrix](/Rotate%20matrix/)
  * [merge intervals](/merge%20intervals/)
  * [merge sorted arrays](/merge%20sorted%20arrays/)
+ * [Find the duplicate number](/Find%20the%20duplicate%20number/)
+ * [Find Missing and repeated numbers](/Missing%20and%20repeating%20numbers/)
+ * [count inversion of an array](/count%20inversions/)
  
