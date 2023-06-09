@@ -13,4 +13,7 @@ Day : 1
  * [Find the duplicate number](/Find%20the%20duplicate%20number/)
  * [Find Missing and repeated numbers](/Missing%20and%20repeating%20numbers/)
  * [count inversion of an array](/count%20inversions/)
+ * [Search in 2d matrix](/Search%20a%202d%20matrix/)
+ * [power x/n](/Power%20(x%2Cn)/)
+ * [Majority elements n/3](/Majority%20Element%20II/)
  
